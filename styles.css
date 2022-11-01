@@ -49,3 +49,21 @@ h1 {
     color: rgb(202, 146, 77);
     font-size: 14px;
 }
+
+.test {
+    background-color:blanchedalmond;
+    padding: 50px;
+    font-size: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.one,
+.two,
+.three {
+    padding: 20px;
+    border: solid black;
+    flex: auto;
+    margin: 5px;
+}
